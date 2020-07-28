@@ -1,6 +1,6 @@
 # Mern Todo API
 
-A MERN-stack API to handle To Do lists. Uses bryptjs and JWT for authentication.
+A MERN-stack API to handle To Do lists. 
 
 ## Requirements
 
@@ -34,17 +34,7 @@ To run your API in a local environment:
 $ yarn dev
 ```
 
-To run the endpoint testing suites (using jest and supertest)
 
-```
-$ yarn test
-```
-
-To format your code
-
-```
-$ yarn prettier
-```
 
 ---
 
